@@ -1,0 +1,13 @@
+# example slider
+- selector: saveory-frontend
+  captions: false
+  images:
+    - src: assets/images/saveory-login.png
+    - src: assets/images/saveory-pantry.png
+    - src: assets/images/saveory-recipe-results.png
+    - src: assets/images/saveory-recipe.png
+    - src: assets/images/saveory-ingredient-select.png
+    - src: assets/images/saveory-ingredient-usage.png
+  settings:
+    height: "'auto'"
+    effect: "'fade'"

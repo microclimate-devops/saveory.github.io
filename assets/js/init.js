@@ -1,0 +1,1 @@
+new IdealImageSlider.Slider('#slider');
