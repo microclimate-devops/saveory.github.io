@@ -40,7 +40,7 @@ We want you to like your pantry. We want managing it to be fun. No more forgotte
 #### **Setup/Installation**:
 
 - Follow the 3 steps in the [IBM Microservice Builder webpage](https://developer.ibm.com/microservice-builder/#getStarted). After following these steps you should have Docker, Git and the Bluemix CLI installed on your system.
-- Now you would need to fork the Saveory repositories (Guide on how to do it: https://help.github.com/articles/fork-a-repo/ and Organization link: https://github.ibm.com/WAS-Saphires ) into your account and then clone that fork into your system.
+- Now you would need to fork the Saveory repositories (Guide on how to do it: https://help.github.com/articles/fork-a-repo/ and Organization link: {LINK TO ORG} ) into your account and then clone that fork into your system.
 
 #### **Development/Integration**:
 
