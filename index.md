@@ -15,23 +15,20 @@ We want you to like your pantry. We want managing it to be fun. No more forgotte
 
 #### Being RESTful 4 services later
 ##### A. Palatable Pantries
-- Start with a better way to keep track of ingredients. Just went to the store? There's an endpoint to add to your virtual pantry. Want to update your pantry to reflect ingredient usage in a recipe? We got you covered. Don't take my word for it, here's our RESTful HTTP API:
-```{INSERT SWAGGER HERE}```
+- Start with a better way to keep track of ingredients. Just went to the store? There's an endpoint to add to your virtual pantry. Want to update your pantry to reflect ingredient usage in a recipe? We got you covered. Don't take my word for it, here's our RESTful HTTP API: [Swagger API](/swagger)
 - ###### Built with IBM Microservice Builder
 
 ##### B. Remixed Recipes
 - Ready to find recipes that prioritize using the stuff you already have? Look no further. Get only the best options that work with your dietary restrictions.
-```{INSERT SWAGGER HERE}```
-- ######Built with IBM Microservice Builder######
+- ###### Built with IBM Microservice Builder
 
 ##### C. 'Umble Users
 - Save your preferences. Change your password. It's all here.
-```{INSERT SWAGGER HERE}```
-- ######Built with IBM Microservice Builder######
+- ###### Built with IBM Microservice Builder
 
 ##### D. Flexible Frontend
 - The interace that ties it all together. See ingredients that are expiring soon or search for that sweet recipe. 		
-- ######Built with ReactJS on NodeJS######
+- ###### Built with ReactJS on NodeJS
 
 #### Awesome! How can I use/develop/test Saveory?
 - Saveory is an open source application with 4 services
